@@ -52,8 +52,8 @@ public/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/skriptxadmin/inventory-management.git
-   cd inventory-management
+   git clone https://github.com/skriptxadmin/Inventory-Management-System.git
+   cd Inventory-Management-System
 ````
 
 2. **Set up environment**
